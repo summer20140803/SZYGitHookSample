@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SZYGitHookSample_Example' do
+  pod 'SZYGitHookSample', :path => '../'
+
+  target 'SZYGitHookSample_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
