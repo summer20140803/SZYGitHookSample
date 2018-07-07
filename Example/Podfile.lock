@@ -1,0 +1,16 @@
+PODS:
+  - SZYGitHookSample (0.1.0)
+
+DEPENDENCIES:
+  - SZYGitHookSample (from `../`)
+
+EXTERNAL SOURCES:
+  SZYGitHookSample:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SZYGitHookSample: 26644d00f254dd42ed19654de82b82757378289a
+
+PODFILE CHECKSUM: 5fbd4433299f8cc72522c0e8e92466b315b17591
+
+COCOAPODS: 1.4.0
